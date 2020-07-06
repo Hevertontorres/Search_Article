@@ -11,3 +11,5 @@
 - php artisan migrate --force
 - php artisan db:seed --class=UsersTableSeeder --force
 - php artisan serve
+
+## Ps: if the name of the database or the port is different, you need to change the files .env and config/database
