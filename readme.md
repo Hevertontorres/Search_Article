@@ -9,5 +9,5 @@
 - php artisan key:generate
 - composer require ixudra/curl 
 - php artisan migrate --force
-- php artisan db:seed --force
+- php artisan db:seed --class=UsersTableSeeder --force
 - php artisan serve
