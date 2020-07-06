@@ -1,7 +1,7 @@
 ## Installation
 
 - Clone the repository
-- Create a MySQL schema called laravel or change the name (in my case, I did it with Wampserver and mysql port: 3308)
+- Create a MySQL schema called laravel (in my case, I did it with Wampserver and mysql port: 3308)
 - Change the .env file with your database information
 - use cmd in the project directory and run the following migrations:
 - composer update
