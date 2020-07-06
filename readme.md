@@ -10,4 +10,4 @@
 - composer require ixudra/curl 
 - php artisan migrate --force
 - php artisan db:seed --force
-- php artisan serve --force
+- php artisan serve
